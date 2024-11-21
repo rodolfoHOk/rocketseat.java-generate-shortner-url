@@ -7,3 +7,4 @@
 - Java 21
 - AWS Lambda
 - AWS S3
+- AWS API Gateway
